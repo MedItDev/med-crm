@@ -1,0 +1,6 @@
+@med_crm_HostAddress = http://localhost:5276
+
+GET {{med_crm_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

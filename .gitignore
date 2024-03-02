@@ -1,0 +1,21 @@
+*.suo
+*.user
+.idea/
+.vs/
+[Bb]in/
+[Oo]bj/
+_UpgradeReport_Files/
+[Pp]ackages/
+
+# VS Code files for those working on multiple tools
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+Thumbs.db
+Desktop.ini
+.DS_Store
+.editorconfig
